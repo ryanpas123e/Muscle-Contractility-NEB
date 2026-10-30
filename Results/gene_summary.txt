@@ -1,0 +1,4 @@
+Gene symbol: NEB
+NCBI Gene ID: 4703
+Official name: nebulin
+Chromosome: 2
