@@ -111,9 +111,28 @@ Compare skeletal-muscle cells expressing wild-type and variant nebulin. Stain fo
 - Length: 8,525 amino acids
 
 **3. What did the amino‑acid composition chart show? What can it NOT tell you?**
+- The amino-acid composition chart showed that lysine (K, 1,016) is the most abundant residue in nebulin, followed by aspartic acid (D, 655) and alanine (A, 632). This shows the distribution and frequency of amino acids within the protein. However, the chart cannot determine its three-dimensional structure, folding, functional domain arrangement, actin-binding activity, or the effects of the p.Ser6366Ile variant, since amino-acid composition alone cannot fully explain protein function or disease impact.
 
 **4. What is your fixed ClinVar variant, and what is its current classification and evidence strength?**
+- The assigned variant is NEB c.19097G>T (p.Ser6366Ile), ClinVar Variation ID 496132. It is classified as Pathogenic for autosomal recessive nemaline myopathy by the ClinGen Congenital Myopathies Variant Curation Expert Panel. The classification is supported by genetic, computational, clinical, and experimental evidence.
 
 **5. What is the scientifically supported mechanism linking this variant to muscle function, and what remains uncertain?**
+- Nebulin helps stabilize actin thin filaments and maintain sarcomere organization. The p.Ser6366Ile variant has been reported to increase nebulin–actin binding affinity, potentially affecting thin-filament organization and muscle function. However, the exact molecular changes that lead to muscle weakness are not fully understood.
 
 **6. What additional experiment would help test the proposed mechanism?**  
+- An in-vitro nebulin–actin binding assay could compare normal and variant nebulin. Measuring their binding affinity would determine whether the Ser6366Ile substitution changes their interaction. This would help test the proposed mechanism.
+
+## Discussion
+The p.Ser6366Ile variant in NEB shows how a small amino-acid change can affect the function of a large muscle protein. Nebulin normally binds to actin and helps maintain the organization and stability of thin filaments in skeletal muscle. To understand this variant, it is important to consider the experimental findings, clinical observations, and computational predictions separately.
+
+Experimental studies found that the p.Ser6366Ile substitution increases the binding affinity of nebulin for actin. This suggests that the change may affect the normal interaction between nebulin and thin filaments. In a mouse model carrying this variant together with a deletion of NEB exon 55, researchers observed muscle weakness, disorganized sarcomeres, nemaline rods, and reduced muscle force. These findings suggest that stronger nebulin–actin binding may interfere with normal thin-filament organization and muscle function. However, the effects observed in the mouse model cannot be attributed to p.Ser6366Ile alone because the animals also carried another NEB mutation.
+
+Clinically, p.Ser6366Ile has been associated with nemaline myopathy when present together with another disease-causing NEB variant. It has also been reported in homozygous individuals with Finnish distal myopathy. The variant is classified as pathogenic by the ClinGen expert panel. These findings support its association with inherited muscle disorders, although the severity and presentation can vary depending on the other genetic changes present.
+
+Computational evidence also supports a possible damaging effect. The REVEL score of 0.829 suggests that the amino-acid substitution may affect nebulin function. However, this is a prediction and does not independently prove the molecular mechanism. Overall, experimental, computational, and clinical evidence support the importance of p.Ser6366Ile in muscle disease. Nevertheless, further studies are needed to understand exactly how increased nebulin–actin binding contributes to changes in muscle structure and contraction.
+
+## References
+
+1. [ClinVar – NEB Variation ID 496132](https://www.ncbi.nlm.nih.gov/clinvar/variation/496132)
+2. [NCBI NEB Gene](https://www.ncbi.nlm.nih.gov/gene/4703)
+3. [UniProt NEB – P20929](https://www.uniprot.org/uniprotkb/P20929/entry)
