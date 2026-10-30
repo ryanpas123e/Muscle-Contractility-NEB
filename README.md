@@ -76,3 +76,44 @@ variant_protein = "p.Ser6366Ile"
 
 ## Step 6 — Second Biological Visualization
 
+<img width="3000" height="900" alt="02_variant_position" src="https://github.com/user-attachments/assets/093f65d8-4e10-4821-8d8a-513dc5181028" />
+
+**Figure 4.** Variant position plot showing p.Ser6366Ile at residue 6366 on the 8,525‑amino‑acid NEB reference protein.
+
+## Step 7 — Explain the Molecular Mechanism
+**1. Describe what your normal protein does in skeletal, cardiac, or smooth muscle (as appropriate). Identify whether it drives the actin–myosin cycle, regulates calcium, or maintains muscle structure.**  
+- NEB encodes nebulin, a giant skeletal-muscle sarcomeric protein. It binds and stabilizes F-actin and helps regulate thin-filament length. Nebulin does not directly drive the actin–myosin cycle or regulate calcium; its main role is maintaining muscle structure.
+
+**2. Explain what is known about the assigned variant, separating observed experimental evidence from computational prediction and clinical association.**
+- **Variant Evidence — p.Ser6366Ile**
+
+- **Clinical:** Classified Pathogenic by the ClinGen expert panel; associated with autosomal recessive nemaline myopathy.
+- **Predictions:** REVEL score of 0.829, suggesting a potentially damaging effect on nebulin function.
+- **Experimental:** Increased nebulin–actin binding affinity was reported, along with muscle abnormalities such as weakness, atrophy, and nemaline rods in a mouse model.
+
+**3. Write a short causal chain: gene → protein → molecular function → assigned variant → possible effect on contraction, relaxation, or muscle integrity.**  
+- NEB → Nebulin → F-actin stabilization and thin-filament organization → p.Ser6366Ile substitution → Potentially altered nebulin–actin interaction → Disrupted sarcomere organization and muscle integrity → Possible muscle weakness.
+
+**4. Propose one experiment that could test your interpretation, such as ATPase measurement, calcium imaging, binding assay, microscopy, or force measurement.**  
+- **Experiment: Immunofluorescence Microscopy**
+
+Compare skeletal-muscle cells expressing wild-type and variant nebulin. Stain for nebulin and F-actin to observe their localization and organization within the sarcomeres.
+
+**Expected Result:** If the variant disrupts nebulin function, variant-expressing cells may show altered nebulin localization or abnormal F-actin organization compared with wild-type cells.
+
+## Questions to Answer in README.md
+
+**1. What does your assigned gene encode, and how does this protein contribute to muscle function?**  
+- NEB encodes nebulin, a large skeletal-muscle sarcomeric protein. Nebulin binds and stabilizes F-actin, helps regulate thin-filament length, and maintains sarcomere structure. It mainly supports muscle integrity and force generation rather than directly driving the actin–myosin cycle or regulating calcium.
+
+**2. What was the exact protein accession and length retrieved with R?**
+- Protein accession: NP_001157980.2
+- Length: 8,525 amino acids
+
+**3. What did the amino‑acid composition chart show? What can it NOT tell you?**
+
+**4. What is your fixed ClinVar variant, and what is its current classification and evidence strength?**
+
+**5. What is the scientifically supported mechanism linking this variant to muscle function, and what remains uncertain?**
+
+**6. What additional experiment would help test the proposed mechanism?**  
