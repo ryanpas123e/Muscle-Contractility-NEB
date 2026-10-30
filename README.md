@@ -28,8 +28,8 @@ variant_protein = "p.Ser6366Ile"
 
 ## Step 3 — Protein Sequence
 - NP accession: NP_001157980.2
-- FASTA file: 
-- Full R script:
+- FASTA file: [NEB Protein FASTA File](Data/NEB_protein.fasta)
+- Full R script: [R Analysis Script](analysis.R)
 
 ## Step 4 — Amino‑Acid Composition
 
